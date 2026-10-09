@@ -1,0 +1,6 @@
+{
+  "name": "Bharat News 24x7 – Hindi News Channel Website",
+  "description": "Bharat News 24x7 is a modern, responsive Hindi news channel web platform delivering breaking headlines, live TV, video bulletins, national, regional, and international news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
